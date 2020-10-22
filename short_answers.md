@@ -15,8 +15,8 @@ I will mainly use this when I want to add a new feature in my code and test the 
 ## Q3
 when a resource is not found you will get a 404 status code. 404 belongs to the client error category(400 codes) which contains errors that has been caused by the client side. It is not permanent.
 
-## Q4 not done
-The id already contains the color value pink but by adding style red it will present the text in color red. So if the writer wanted to present the color for the id it will not work.
+## Q4
+The id already contains the color value pink but by adding style red it will present the text in color red. Inline style comes first so color given in the style tag on top with the id will not work.
 
 ## Q5
 example: https://www.markdownguide.org/cheat-sheet/text.html </br>

@@ -1,0 +1,84 @@
+* { 
+    font-family: 'Bree Serif', serif;
+}
+
+h2 {
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.left-image {
+    float: left;
+    padding: 10px;
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.right-image {
+    float: right;
+    padding: 10px;
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.float-clear {
+    clear: both;
+    display: block;
+}
+
+#contact-div {
+    text-align: center;
+}
+
+#contact-img {
+    width: 500px;
+}
+
+#contact-p-div>p {
+    text-align: center;
+    font-weight: bold;
+}
+
+body {
+    background-color: #7EA8BE;
+    padding: 0;
+    margin: 0;
+}
+header {
+    position: sticky;
+    top: 0;
+    background-color: #C09187;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+footer {
+    background-color: #F6F0ED;
+}
+
+footer>p {
+    margin: 0;
+}
+
+.menu>li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.menu>li>a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+main>h2 {
+    font-size: 4em;
+    text-align: center;
+}
+
+.cupcake {
+    font-size: 2em;
+    text-align: left;
+}
